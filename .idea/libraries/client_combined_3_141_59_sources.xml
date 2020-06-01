@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="client-combined-3.141.59-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../selenmiumjava/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenmiumjava/testng-7.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenmiumjava/java-client-7.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../selenmiumjava/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
